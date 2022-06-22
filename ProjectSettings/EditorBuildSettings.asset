@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_MiniGames Team/Test Scenes/Yazan.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Easy 2D Player Movement/Scenes/DemoScene_1_platformer.unity
+    guid: 0069f064f8c6f0c499bf236330288395
   m_configObjects: {}

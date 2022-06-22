@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 6231b62aba7054940a49e569cb179773
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Player_idle
+  - first:
+      213: 21300002
+    second: Player_walk1
+  - first:
+      213: 21300004
+    second: Player_walk2
+  - first:
+      213: 21300006
+    second: Player_walk3
+  - first:
+      213: 21300008
+    second: Player_jump
+  - first:
+      213: 21300010
+    second: Player_shoot
+  - first:
+      213: 21300012
+    second: Player_gunWalk1
+  - first:
+      213: 21300014
+    second: Player_idleGun
+  - first:
+      213: 21300016
+    second: Player_jumpGun
+  - first:
+      213: 21300018
+    second: Player_gunWalk2
+  - first:
+      213: 21300020
+    second: Player_gunWalk3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_idle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 352
+        width: 116
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461b691bc4491894ebf1a4939680eb50
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_walk1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 185
+        width: 96
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448955b107b3b534e8c91e0faf22bfa4
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_walk2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 185
+        width: 115
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4ea45904f675441993836c62f4a0ea
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_walk3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 185
+        width: 125
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ee092a5acff84ab1ae128c4fe0920
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_jump
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 133
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a692554708acf14188c8e07378f4e26
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_shoot
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 352
+        width: 157
+        height: 149
+      alignment: 9
+      pivot: {x: 0.37, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59875c44c59c4d0468bbaf03c8a14e63
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_gunWalk1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 533
+        width: 147
+        height: 151
+      alignment: 9
+      pivot: {x: 0.29, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd4ba57d5a439145992eaddb6529f8b
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_idleGun
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 129
+        height: 149
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea8e9e1306d776408dd69e93fcff327
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_jumpGun
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 10
+        width: 160
+        height: 142
+      alignment: 9
+      pivot: {x: 0.43, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da230502b53cfe947b5b32096c6c1559
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_gunWalk2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 534
+        width: 146
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a778f64addbc3a94f8afb3b9169071f0
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_gunWalk3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 534
+        width: 169
+        height: 150
+      alignment: 9
+      pivot: {x: 0.41, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1427368789406f649b009d3df1c6736b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eab529bc16b4bd34c81ceebfd06c1fde
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Player_idleGun: 21300014
+      Player_gunWalk1: 21300012
+      Player_gunWalk3: 21300020
+      Player_gunWalk2: 21300018
+      Player_jump: 21300008
+      Player_idle: 21300000
+      Player_jumpGun: 21300016
+      Player_shoot: 21300010
+      Player_walk1: 21300002
+      Player_walk3: 21300006
+      Player_walk2: 21300004
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
